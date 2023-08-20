@@ -13,4 +13,4 @@ This tool only supports the following formats!
 
 Unfortunately if any other file types exist in the resource data, the program will stop there. I'm too lazy to fix that. But since the supported formats are also the most common, it should be more or less fine.
 
-> Example usage can be found in [Example](https://example.com)
+> Example usage can be found in [Example](https://github.com/Korozin/Qrc-Resource-Extractor/tree/main/Example)
